@@ -1,0 +1,6 @@
+src/
+.env
+*.md
+!README.md
+tsconfig.json
+node_modules/
